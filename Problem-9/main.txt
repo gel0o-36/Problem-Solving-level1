@@ -1,0 +1,1 @@
+Write a program to ask the user to Enter 3 numbers and sum all the three and print the result to the screen.
