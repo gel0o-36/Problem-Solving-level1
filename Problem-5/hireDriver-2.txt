@@ -1,0 +1,1 @@
+Write a program to ask the user to Enter if he has a recommendation if yes print "Hired", if not check his / her ( Age , Driving license ) and print "Hired" if his / her age greater than 21 and s/he has a driving license, otherwise print "Rejected".

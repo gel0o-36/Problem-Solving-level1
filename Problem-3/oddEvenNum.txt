@@ -1,0 +1,1 @@
+Write a program to ask the user to Enter a number and check if Even or Odd.
